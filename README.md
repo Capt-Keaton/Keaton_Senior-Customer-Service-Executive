@@ -2,8 +2,9 @@
 
 A five-page personal portfolio website for **Sylvester Keaton Clarke**, a contact centre Team Leader and Senior Customer Service Executive based in Accra, Ghana. It is built to be shared with recruiters and hiring managers.
 
-**Live site:** `https://<your-github-username>.github.io/<repository-name>/`
-(Replace the placeholders with your GitHub username and repository name once GitHub Pages is switched on.)
+**Live site:** **https://capt-keaton.github.io/Keaton_Senior-Customer-Service-Executive/**
+
+This is the portfolio address listed on the resume. It works once the repository is named `Keaton_Senior-Customer-Service-Executive` under the `capt-keaton` GitHub account and GitHub Pages is switched on.
 
 > *"Live Full...Die Empty"*
 
@@ -42,15 +43,15 @@ Keaton_Clarke_Resume.pdf    Standalone copy of the ATS resume (optional, the sit
 
 ## Publish it on GitHub Pages
 
-1. Sign in to GitHub and create a **new public repository** (for example `keaton-portfolio`).
+1. Sign in to GitHub as `capt-keaton` and create a **new public repository** named exactly `Keaton_Senior-Customer-Service-Executive` (this matches the portfolio link on your resume).
 2. Click **Add file → Upload files**. Drag in the **files themselves** (`index.html`, `README.md`, `Keaton_Clarke_Resume.pdf` and `.nojekyll`), not a zip file, then **Commit changes**. `index.html` must sit at the top level of the repository, not inside a folder.
 3. Open **Settings → Pages**.
 4. Under **Build and deployment**, set **Source** to **Deploy from a branch**, choose the **main** branch and the **/ (root)** folder, then **Save**.
 5. Wait one to two minutes. GitHub shows your live link at the top of the Pages screen:
-   `https://<your-github-username>.github.io/<repository-name>/`
+   `https://capt-keaton.github.io/Keaton_Senior-Customer-Service-Executive/`
 6. Share that link with recruiters, and add it to your LinkedIn profile and resume.
 
-Tip: name the repository `<your-github-username>.github.io` to get a shorter address with no repository name at the end.
+Your older site, `Keaton_Executive`, lives in a separate repository, so it stays online and is not affected.
 
 ## Updating the site
 
